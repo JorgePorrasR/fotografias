@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MisFotografias</string>
+    <string name="main_label_gallery">Galería</string>
+    <string name="main_label_camera">Cámara</string>
+    <string name="main.label.upload">Subir</string>
+    <string name="main.message.question.upload">¿Desea subir esta imagen?</string>
+    <string name="main.message.upload.success">Imagen cargada excitosamente</string>
+    <string name="main.message.done">Listo</string>
+    <string name="main.message.upload.error">Error al subir la imagen, intente de nuevo</string>
+    <string name="main_message_uri_null">Tienes que seleccionar una imagen</string>
+    <string name="main_message_delete_error">Ocurrio un error</string>
+    <string name="main_message_delete_success">Imagen eliminada correctamente</string>
+    <string name="main_message_error_notfound">No se pudo cargar la imagen</string>
+</resources>

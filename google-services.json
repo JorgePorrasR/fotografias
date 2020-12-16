@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "696770636316",
+    "project_id": "fotografias-77c60",
+    "storage_bucket": "fotografias-77c60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696770636316:android:13049214950eae005c0dd9",
+        "android_client_info": {
+          "package_name": "mx.com.softwell.misfotografias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696770636316-472p09g2e7m1gefb5cim6ujuv73kmg1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.softwell.misfotografias",
+            "certificate_hash": "01feb3928b403caaa1f603b1089ba1c012fc08a8"
+          }
+        },
+        {
+          "client_id": "696770636316-bplqfqt84dd9kh3kdopldba60dvg83aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQxdN6mioaxqucZAxa2tHHIQATK1WyGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696770636316-bplqfqt84dd9kh3kdopldba60dvg83aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
